@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/cetfu/gear-server/keybd_event"
+	"github.com/micmonay/keybd_event"
 	"go.bug.st/serial"
 	"os"
 	"strconv"
